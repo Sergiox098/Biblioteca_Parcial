@@ -24,7 +24,8 @@ public class BibliotecaParcial {
     private String  libroMath;
     private String  libroLiterature;
     private String  libroScience;
-
+    
+    
     public String getLibroMath() {
         return libroMath;
     }
@@ -40,13 +41,13 @@ public class BibliotecaParcial {
     public void registroLibros(int categoria, String Libro){
         switch(categoria){
             case 1:
-                libroMath = Libro;
+                libroMath += ", " +  Libro;
                 break;
             case 2:
-                libroLiterature = Libro;
+                libroLiterature += ", " + Libro;
                 break;
             case 3:
-                libroScience = Libro;
+                libroScience = ", " + Libro;
                 break;
             default:
                 break;
@@ -55,10 +56,10 @@ public class BibliotecaParcial {
 
     }
     public void registroestudiante(String name){
-        studentName =  name;
+        studentName += ", " + name;
     }
     public void registrodocente(String name){
-        docenteName = name;
+        docenteName += ", " + name;
     }
     
     
