@@ -42,6 +42,9 @@ Después en un ciclo anidado se verifica que existe un usuario y se muestran las
 
 Por último en un menú switch se implementan los métodos de la clase en donde el archivo test proporciona la información y la clase tiene los métodos para operarlas
 
-![image](https://github.com/user-attachments/assets/aab3ea4b-5a68-4705-aa6d-8ddab614b41f)
+![image](https://github.com/user-attachments/assets/58a987e9-017e-46d1-8ab8-fbf6a9213731)
+![image](https://github.com/user-attachments/assets/fb1e7d9b-44a9-4cd5-a8f1-03dd62b7ef81)
+
+
 
 
