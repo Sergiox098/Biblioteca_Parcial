@@ -6,7 +6,7 @@ package parcialpoo;
 import java.util.Scanner;
 /**
  *
- * @author Estudiante
+ * @author Sergio Gomez
  */
 public class ParcialPOO {
 
