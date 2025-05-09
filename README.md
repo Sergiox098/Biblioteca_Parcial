@@ -45,6 +45,29 @@ Por último en un menú switch se implementan los métodos de la clase en donde 
 ![image](https://github.com/user-attachments/assets/58a987e9-017e-46d1-8ab8-fbf6a9213731)
 ![image](https://github.com/user-attachments/assets/fb1e7d9b-44a9-4cd5-a8f1-03dd62b7ef81)
 
+# Salida en Consola
 
+![image](https://github.com/user-attachments/assets/f88e9351-5cc7-435b-8c48-15b6cb4ef3fb)
 
+![image](https://github.com/user-attachments/assets/486632e3-36b1-4881-841c-13fe4de19c05)
+
+![image](https://github.com/user-attachments/assets/d61fdb8a-0c2b-4d59-b54b-ea986c375169)
+
+![image](https://github.com/user-attachments/assets/ce6598f2-9abe-4d40-916c-05906d430f93)
+
+![image](https://github.com/user-attachments/assets/42069266-8ac4-4644-8f0d-7fd07866f25a)
+
+![image](https://github.com/user-attachments/assets/785cfc14-e9fb-4260-bb0f-4da528d6589f)
+
+![image](https://github.com/user-attachments/assets/8e56921d-a830-4d98-87f2-b9e819e5b505)
+
+![image](https://github.com/user-attachments/assets/916e31d0-1269-4ead-81ce-ce61045013dc)
+
+![image](https://github.com/user-attachments/assets/64bf68ec-2fb6-4517-8498-dcd75bf35da7)
+
+![image](https://github.com/user-attachments/assets/019501f7-0898-4a29-98f8-9ae9e6953039)
+
+![image](https://github.com/user-attachments/assets/083d8040-5ffd-4161-9470-56406940b93f)
+
+![image](https://github.com/user-attachments/assets/c000e358-1ca5-402d-ac37-cc8a0064547b)
 
